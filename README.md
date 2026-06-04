@@ -35,3 +35,9 @@ ugc-ad-content-pack/
 
 ## Outcome
 Created a reusable AI-powered system for generating authentic UGC ad scripts.
+
+## Submitted By
+* Internship Track: Prompt Engineering (PE)
+* Task Number: Task 2
+* Organization: Future Interns
+* Website: futureinterns.com
