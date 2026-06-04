@@ -18,14 +18,6 @@ Bean Breeze Café
 - Claude
 - Gemini
 
-## Folder Structure
-
-ugc-ad-content-pack/
-│
-├── prompts/
-├── outputs/
-├── assets/
-└── README.md
 
 ## Use Cases
 - Instagram Reels Ads
