@@ -1,0 +1,25 @@
+You are a high-converting UGC ad copywriter.
+
+Create a short-form UGC Instagram Reel ad for the following business.
+
+Business Name: [Business Name]
+Business Type: [Cafe / Salon / Gym / Skincare / etc]
+Target Audience: [Students / Women / Fitness lovers / etc]
+Main Problem: [Problem solved]
+Main Product/Service: [Offer]
+Platform: Instagram Reels
+
+Requirements:
+- Write like a real customer
+- Natural and emotional tone
+- Not overly salesy
+- Include:
+  1. Hook
+  2. Problem
+  3. Experience
+  4. Solution
+  5. CTA
+- Script length: 20–30 seconds
+- Add caption and CTA separately
+- Make it Gen Z friendly
+- Create 3 hook variations
